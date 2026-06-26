@@ -1,0 +1,66 @@
+.athiti-extralight {
+  font-family: "Athiti", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.athiti-light {
+  font-family: "Athiti", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.athiti-regular {
+  font-family: "Athiti", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.athiti-medium {
+  font-family: "Athiti", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.athiti-semibold {
+  font-family: "Athiti", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.athiti-bold {
+  font-family: "Athiti", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-condensed{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.outfit{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+    border: solid rgb(129, 166, 198);
+    border-width: 5px; ;
+    width: 300px;
+    margin: auto; 
+    font-weight: bold ;
+    text-align: center;
+    background-color: white;
+}
+.textborder{
+  padding: 5px;
+  text-align: center; 
+  font-size: 20px;
+  border: 3px solid  rgb(129, 166, 198); 
+  border-radius: 10px;
+  background-color: white;
+  margin: 0 auto; 
+}
